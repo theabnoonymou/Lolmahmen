@@ -22,14 +22,14 @@ module.exports = {
 			defaultWelcomeMessage: "Xin chào {userName}.\nChào mừng bạn đến với {boxName}.\nChúc bạn có buổi {session} vui vẻ!"
 		},
 		en: {
-			session1: "morning",
-			session2: "noon",
-			session3: "afternoon",
-			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
-			multiple1: "you",
-			multiple2: "you guys",
-			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			session1: "𝗺𝗼𝗿𝗻𝗶𝗻𝗴",
+			session2: "𝗻𝗼𝗼𝗻",
+			session3: "𝗮𝗳𝘁𝗲𝗿𝗻𝗼𝗼𝗻",
+			session4: "𝗲𝘃𝗲𝗻𝗶𝗻𝗴",
+			welcomeMessage: "🔴🟡🟢\n\n𝗭𝗬𝗟𝗗𝗔𝗥𝗞 𝗕𝗢𝗧 𝗔𝗥𝗘 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 𝗦𝗨𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬.\n❏━━━━━━━━━━━━━━━━━━━❍\n𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗚𝗥𝗘𝗘𝗧𝗜𝗡𝗚𝗦: Thank you for inviting me to the group!\n\nBot prefix:[ %1 ]\nTo view the list of commands, please enter: %1help\n❏━━━━━━━━━━━━━━━━━━━❍\n𝗖𝗥𝗘𝗔𝗧𝗢𝗥: https://www.facebook.com/itssmekylebaitit\n\nDONT FORGET TO ADD MY CREATOR😊",
+			multiple1: "𝘆𝗼𝘂",
+			multiple2: "𝘆𝗼𝘂 𝗴𝘂𝘆𝘀",
+			defaultWelcomeMessage: `🫡𝗛𝗲𝗹𝗹𝗼 𝗦𝗲𝗻𝗽𝗮𝗶:{userName}.\n❏━━━━━━━━━━━━━━━━━━━❍\n𝗪𝗲𝗹𝗰𝗼𝗺𝗲 {multiple} 𝘁𝗼 𝘁𝗵𝗲 𝗰𝗵𝗮𝘁 𝗴𝗿𝗼𝘂𝗽: {boxName}\n\n𝗛𝗮𝘃𝗲 𝗮  𝗻𝗶𝗰𝗲 {session} 😊\n❏━━━━━━━━━━━━━━━━━━━❍`
 		}
 	},
 
