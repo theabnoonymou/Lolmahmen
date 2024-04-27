@@ -1,11 +1,11 @@
 const axios = require('axios');
 
 const Prefixes = [
-  'Redwan',
+  'dark',
   'bot',
-  'Nemo',
+  'Zyldark',
   'nigga',
-  'nemo',
+  'zyldark',
   'ai',
   'ask',
 ];
@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("Hey I am Nemo ask me questions dear🦥");
+        await message.reply("Hey I am Zyldark ask me questions dear🦥");
         return;
       }
 
@@ -40,7 +40,7 @@ module.exports = {
       const answer = response.data.answer;
 
 
-    await message.reply({ body: ` REDWAN | STUDY   
+    await message.reply({ body: ` ZYLDARK RESPONSE:   
 ━━━━━━━━━━━━━        
 ${answer}
 ━━━━━━━━━━━━━`,
