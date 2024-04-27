@@ -16,15 +16,14 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
-    "100091606131817", "100052395031835"],
+  "adminBot": ["100052395031835"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": ["",""],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " 𝗠𝗔𝗥𝗩𝗜𝗡 𝗔𝗜 ",
-  "prefix": "#",
+  "nickNameBot": " 𝗭𝗬𝗟𝗗𝗔𝗥𝗞 𝗔𝗜 (ᴷʸᴸᴱ'ˢ ᴮᴼᵀ) ",
+  "prefix": "×",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
