@@ -14,7 +14,7 @@ const fs = require("fs");
             name: 'openai',
             aliases : ['ai'],
             version: '1.0',
-            author: 'Aryan Chauhan & ADD YOUR NAME HERE', //don't Change my credit if you change it i will ban your IP so don't do it.
+            author: 'Aryan Chauhan & KYLE BAIT-IT', //don't Change my credit if you change it i will ban your IP so don't do it.
             role: 0,
             countDown: 0,
             category: 'Orochi Ai',
@@ -59,7 +59,7 @@ const fs = require("fs");
               const messageText = response.data.content.trim();
 
               // Prepend "🤖 𝗢𝗿𝗼𝗰𝗵𝗶: " to the response
-              await message.reply(`🔬𝗢𝗣𝗘𝗡𝗔𝗜 𝗧𝗨𝗕𝗥𝗢 𝗩2\n\n${messageText}\n\n𝗦𝗘𝗡𝗗𝗘𝗥 𝗨𝗜𝗗: ${event.senderID}\n𝗥𝗘𝗟𝗘𝗔𝗦𝗘 𝗗𝗔𝗧𝗘: 21-12-2023\n𝗧𝗛𝗥𝗘𝗔𝗗 𝗨𝗜𝗗: ${event.threadID}\n𝗖𝗥𝗘𝗔𝗧𝗢𝗥:\n【 Aryan Chauhan 】`);
+              await message.reply(`🔬𝗢𝗣𝗘𝗡𝗔𝗜 𝗧𝗨𝗕𝗥𝗢 𝗩2\n\n${messageText}\n\n𝗦𝗘𝗡𝗗𝗘𝗥 𝗨𝗜𝗗: ${event.senderID}\n𝗥𝗘𝗟𝗘𝗔𝗦𝗘 𝗗𝗔𝗧𝗘: 21-12-2023\n𝗧𝗛𝗥𝗘𝗔𝗗 𝗨𝗜𝗗: ${event.threadID}\n𝗖𝗥𝗘𝗔𝗧𝗢𝗥:\nKYLE BAIT-IT`);
 
               console.log('Sent answer as a reply to user');
 
